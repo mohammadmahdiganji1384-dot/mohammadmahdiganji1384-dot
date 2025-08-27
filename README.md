@@ -17,10 +17,8 @@
 <br/>
 <h2>My Skills</h2>
 <br/>
-<br/>
 <ul>
   <li><strong><img width='50px' src="./images/language.svg"/> Languages:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong> <img width='50px' src="./images/html.svg"/> HTML5, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width='50px' src="./images/css.svg"/> CSS3, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width='50px' src="./images/js.svg"/> JavaScript (ES6+)</li>
-<br/>
 <br/>
   <li><strong><img width='50px' src="./images/react.svg"/> Frameworks & Libraries:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong> <img width='50px' src="./images/react.svg"/> React,  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width='50px' src="./images/style.svg"/> Styled Components &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img width='50px' src="./images/tailwind.svg"/> Tailwind css</li>
   <br/> 
@@ -30,6 +28,7 @@
   <br/>
   <li><strong><img width='50px' src="./images/design.svg"/> Design:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong> <img width='50px' src="./images/figma.svg"/> Figma,  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width='50px' src="./images/responsive.svg"/> Responsive Design</li>
 </ul>
+<br/>
 
 ## 🚀 Projects
 
@@ -44,3 +43,11 @@ Features include dynamic weather data (via API), animated UI elements, and mobil
 My personal portfolio showcasing my skills, projects, and design aesthetics.  
 Built with vanilla HTML, CSS, and JavaScript—optimized for performance and visual impact.  
 🔗 [Live Site](https://your-portfolio.com) | 📁 [Source Code](https://github.com/your-username/portfolio)
+
+
+## 📬 Contact
+
+Feel free to reach out for collaboration, freelance work, or just to say hi 👋  
+📧 mohammadmahdiganji1384@gmail.com  
+💼 [LinkedIn](https://linkedin.com/in/your-profile)  
+🌐 [Portfolio](https://your-portfolio.com)
