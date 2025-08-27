@@ -30,3 +30,17 @@
   <br/>
   <li><strong><img width='50px' src="./images/design.svg"/> Design:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong> <img width='50px' src="./images/figma.svg"/> Figma,  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width='50px' src="./images/responsive.svg"/> Responsive Design</li>
 </ul>
+
+## 🚀 Projects
+
+### 🌦️ Weather App
+A responsive weather application built using pure HTML, CSS, and JavaScript.  
+Features include dynamic weather data (via API), animated UI elements, and mobile-friendly layout.  
+🔗 [Live Demo](https://your-weather-app-link.com) | 📁 [Source Code](https://github.com/your-username/weather-app)
+
+---
+
+### 🧭 Portfolio Website
+My personal portfolio showcasing my skills, projects, and design aesthetics.  
+Built with vanilla HTML, CSS, and JavaScript—optimized for performance and visual impact.  
+🔗 [Live Site](https://your-portfolio.com) | 📁 [Source Code](https://github.com/your-username/portfolio)
